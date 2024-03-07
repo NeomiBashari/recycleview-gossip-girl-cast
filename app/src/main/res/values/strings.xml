@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GossipGirlID</string>
+    <string name="card_descriptions">Card descriptions</string>
+    <string name="card_title">Card title</string>
+</resources>
